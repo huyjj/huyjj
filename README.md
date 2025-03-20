@@ -1,12 +1,22 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=41&pause=1000&color=6EADF7&center=true&multiline=true&width=460&height=120&lines=Hi!+I'm+Yaojun+Hu.;Nice+to+meet+you!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=41&pause=1000&color=6EADF7&center=true&multiline=true&width=660&height=150&lines=Hi!+I'm+Yaojun+Hu.;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
-## 🎓 PhD Student at Zhejiang University
-💡  multi-modal learning, vision-language models, and large language models.
+ 
+<!-- ## 🎓 PhD Student at Zhejiang University
+💡  multi-modal learning, vision-language models, and large language models. -->
+## 🐶 About Me
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyjj)
-
+- 🎓 **PhD Student** at Zhejiang University, School of Computer Science and Technology (2023–Present)  
+- 🔬 **Research interests:** multi-modal learning, vision-language models, large language models  
+- 📚 Top-ranked Undergraduate at Zhejiang University of Technology, Mathematics School (2019–2023)  
+- 🏆 Honored with Provincial Government Scholarship, first-class academic awards, and more  
+- 👻 Trouble Maker: I’ve been driven a bit crazy—often indulging in quirky, offbeat antics 
+- 🤝 **Seeking Collaborations & Internships:** I am actively exploring opportunities for research collaborations and internships. If you find my work or profile interesting, please feel free to get in touch! 
+- ✉️ Email: yaojunhu@zju.edu.cn 
 ---
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyjj) -->
+
+<!-- --- -->
 
 ## 📚 Academic Publications
 
@@ -26,17 +36,18 @@
 
 ---
 
-## About Me
+<!-- ## 🐶 About Me
 
-- 🎓 **PhD Candidate** at Zhejiang University, School of Computer Science and Technology (2023–Present)  
-- 📚 **Top-ranked Undergraduate** at Zhejiang University of Technology, Mathematics School (2019–2023)  
-- 🔬 Research interests: multi-modal learning, vision-language models, large language models  
+- 🎓 **PhD Student** at Zhejiang University, School of Computer Science and Technology (2023–Present)  
+- 🔬 **Research interests:** multi-modal learning, vision-language models, large language models  
+- 📚 Top-ranked Undergraduate at Zhejiang University of Technology, Mathematics School (2019–2023)  
 - 🏆 Honored with Provincial Government Scholarship, first-class academic awards, and more  
 - 👻 Trouble Maker: I’ve been driven a bit crazy—often indulging in quirky, offbeat antics 
+- 🤝 **Seeking Collaborations & Internships:** I am actively exploring opportunities for research collaborations and internships. If you find my work or profile interesting, please feel free to get in touch!
 
----
+--- -->
 
-## ✉️ Connect
+<!-- ## ✉️ Connect
 
-- [![GitHub](https://static.is26.com/tmp/icons/github.svg)](https://github.com/huyjj) [GitHub](https://github.com/huyjj)
-- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:yaojunhu@zju.edu.cn) [Email](mailto:yaojunhu@zju.edu.cn)
+[![GitHub](https://static.is26.com/tmp/icons/github.svg)](https://github.com/huyjj) [GitHub](https://github.com/huyjj)
+[![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:yaojunhu@zju.edu.cn) [Email](mailto:yaojunhu@zju.edu.cn) -->
